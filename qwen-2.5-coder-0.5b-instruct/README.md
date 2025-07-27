@@ -9,7 +9,7 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 **Step 2:** Init with the Qwen2.5 Coder 1.5B model
 
 ```
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen-2.5-coder-0.5b-instruct/config.json
+gaianet init --config https://raw.githubusercontent.com/richdo160/node-configs/main/qwen-2.5-coder-0.5b-instruct/config.json
 ```
 
 **Step 3:** Start the node
